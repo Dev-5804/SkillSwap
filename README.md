@@ -1,3 +1,4 @@
+ 
 # SkillSwap
 
 SkillSwap is a web application that connects people who want to teach and learn new skills. Users can create profiles, explore others, send and manage skill swap requests, chat, and track their progress—all in a modern, user-friendly interface.
